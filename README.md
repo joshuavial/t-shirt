@@ -1,6 +1,6 @@
 # Awesome T-Shirt Store
 
-we now sell bananas the y are great
+we now sell bananas they are great
 
 A Next.js e-commerce application for selling t-shirts.
 
