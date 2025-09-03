@@ -1,4 +1,4 @@
-# T-Shirt Store
+# Awesome T-Shirt Store
 
 A Next.js e-commerce application for selling t-shirts.
 
