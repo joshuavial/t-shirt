@@ -1,5 +1,7 @@
 # Awesome T-Shirt Store
 
+we now sell bananas
+
 A Next.js e-commerce application for selling t-shirts.
 
 ## Prerequisites
